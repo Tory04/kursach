@@ -1,0 +1,30 @@
+[
+  {
+    "Disease": "Бронхіальна астма",
+    "DetectionDate": "12.12.2021",
+    "MedicalBook": [
+      {
+        "Disease": "Бронхіальна астма",
+        "DetactionDate": "12.12.2021",
+        "RecoveryDate": "29.12.2021"
+      }
+    ],
+    "ID": 0,
+    "Name": "Вікторія",
+    "LastName": "Кухар",
+    "Age": 19,
+    "Email": "kukharvika@ukr.net",
+    "IdentificationCode": "1234567890"
+  },
+  {
+    "Disease": "Перелом",
+    "DetectionDate": "15.01.2019",
+    "MedicalBook": [],
+    "ID": 1,
+    "Name": "Максим",
+    "LastName": "Нікіфоров",
+    "Age": 20,
+    "Email": "maks@ukr.net",
+    "IdentificationCode": "1233213211"
+  }
+]

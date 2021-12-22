@@ -1,0 +1,36 @@
+[
+  {
+    "Qualification": "Алерголог",
+    "Experience": 20,
+    "OfficeNumber": 5,
+    "ID": 0,
+    "Name": "Людмила",
+    "LastName": "Кухар",
+    "Age": 44,
+    "Email": "kukhar@i.ua",
+    "IdentificationCode": "0123456789"
+  },
+  
+  {
+    "Qualification": "Травматолог",
+    "Experience": 3,
+    "OfficeNumber": 228,
+    "ID": 0,
+    "Name": "Степан",
+    "LastName": "Величко",
+    "Age": 27,
+    "Email": "velichko@i.ua",
+    "IdentificationCode": "1234432112"
+  },
+  {
+    "Qualification": "Травматолог",
+    "Experience": 10,
+    "OfficeNumber": 35,
+    "ID": 1,
+    "Name": "Степан",
+    "LastName": "Москаленко",
+    "Age": 36,
+    "Email": "moskal@gmail.com",
+    "IdentificationCode": "9876543210"
+  }
+]

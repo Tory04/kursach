@@ -1,0 +1,89 @@
+[
+  {
+    "ID": 0,
+    "AdmissionDate": "2021-12-20T00:00:00",
+    "Time": "14:00",
+    "Patient": {
+      "Disease": "Перелом",
+      "DetectionDate": "12.12.2021",
+      "MedicalBook": [],
+      "ID": 0,
+      "Name": "Вікторія",
+      "LastName": "Кухар",
+      "Age": 19,
+      "Email": "kukharvika@ukr.net",
+      "IdentificationCode": "1234567890"
+    },
+    "Doctor": {
+      "Qualification": "Алерголог",
+      "Experience": 23,
+      "OfficeNumber": 145,
+      "ID": 0,
+      "Name": "Кухар",
+      "LastName": "Людмила",
+      "Age": 44,
+      "Email": "kukhar@gmail.com",
+      "IdentificationCode": "1231231231"
+    }
+  },
+  {
+    "ID": 1,
+    "AdmissionDate": "2021-12-20T00:00:00",
+    "Time": "14:00",
+    "Patient": {
+      "Disease": "Перелом",
+      "DetectionDate": "15.01.2019",
+      "MedicalBook": [],
+      "ID": 0,
+      "Name": "Максим",
+      "LastName": "Нікіфоров",
+      "Age": 20,
+      "Email": "maks@ukr.net",
+      "IdentificationCode": "1233213211"
+    },
+    "Doctor": {
+      "Qualification": "Травматолог",
+      "Experience": 3,
+      "OfficeNumber": 112,
+      "ID": 0,
+      "Name": "Степан",
+      "LastName": "Величко",
+      "Age": 27,
+      "Email": "velichko@i.ua",
+      "IdentificationCode": "1234432112"
+    }
+  },
+  {
+    "ID": 2,
+    "AdmissionDate": "2021-12-24T00:00:00",
+    "Time": "10:00",
+    "Patient": {
+      "Disease": "Бронхіальна астма",
+      "DetectionDate": "12.12.2021",
+      "MedicalBook": [
+        {
+          "Disease": "Бронхіальна астма",
+          "DetactionDate": "12.12.2021",
+          "RecoveryDate": "29.12.2021"
+        }
+      ],
+      "ID": 0,
+      "Name": "Вікторія",
+      "LastName": "Кухар",
+      "Age": 19,
+      "Email": "kukharvika@ukr.net",
+      "IdentificationCode": "1234567890"
+    },
+    "Doctor": {
+      "Qualification": "Алерголог",
+      "Experience": 20,
+      "OfficeNumber": 5,
+      "ID": 0,
+      "Name": "Людмила",
+      "LastName": "Кухар",
+      "Age": 44,
+      "Email": "kukhar@i.ua",
+      "IdentificationCode": "0123456789"
+    }
+  }
+]

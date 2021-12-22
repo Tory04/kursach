@@ -1,0 +1,33 @@
+C:\Users\admin\source\repos\CourseworkVar13\Data\bin\Debug\Data.dll
+C:\Users\admin\source\repos\CourseworkVar13\Data\bin\Debug\Data.pdb
+C:\Users\admin\source\repos\CourseworkVar13\Data\bin\Debug\Entities.dll
+C:\Users\admin\source\repos\CourseworkVar13\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\CourseworkVar13\Data\bin\Debug\Entities.pdb
+C:\Users\admin\source\repos\CourseworkVar13\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\CourseworkVar13\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CourseworkVar13\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CourseworkVar13\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\admin\source\repos\CourseworkVar13\Data\obj\Debug\Data.dll
+C:\Users\admin\source\repos\CourseworkVar13\Data\obj\Debug\Data.pdb
+C:\Users\admin\Desktop\Coursework\Data\bin\Debug\Data.dll
+C:\Users\admin\Desktop\Coursework\Data\bin\Debug\Data.pdb
+C:\Users\admin\Desktop\Coursework\Data\bin\Debug\Entities.dll
+C:\Users\admin\Desktop\Coursework\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Coursework\Data\bin\Debug\Entities.pdb
+C:\Users\admin\Desktop\Coursework\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Coursework\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Coursework\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Coursework\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\admin\Desktop\Coursework\Data\obj\Debug\Data.dll
+C:\Users\admin\Desktop\Coursework\Data\obj\Debug\Data.pdb
+C:\Users\пк\Desktop\2 курс\ООП\Курсач\Coursework\Data\bin\Debug\Data.dll
+C:\Users\пк\Desktop\2 курс\ООП\Курсач\Coursework\Data\bin\Debug\Data.pdb
+C:\Users\пк\Desktop\2 курс\ООП\Курсач\Coursework\Data\bin\Debug\Entities.dll
+C:\Users\пк\Desktop\2 курс\ООП\Курсач\Coursework\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\пк\Desktop\2 курс\ООП\Курсач\Coursework\Data\bin\Debug\Entities.pdb
+C:\Users\пк\Desktop\2 курс\ООП\Курсач\Coursework\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\пк\Desktop\2 курс\ООП\Курсач\Coursework\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\2 курс\ООП\Курсач\Coursework\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\2 курс\ООП\Курсач\Coursework\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\пк\Desktop\2 курс\ООП\Курсач\Coursework\Data\obj\Debug\Data.dll
+C:\Users\пк\Desktop\2 курс\ООП\Курсач\Coursework\Data\obj\Debug\Data.pdb
